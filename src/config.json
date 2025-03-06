@@ -1,0 +1,14 @@
+{
+    "proxy_pool": [
+        "brd.superproxy.io:33335",
+        "brd.superproxy.io:33336"
+    ],
+    "user_agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64)...",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X...)"
+    ],
+    "request_timeout": 30,
+    "max_retries": 3,
+    "throttle_range": [1, 3],
+    "output_format": "json"
+}
