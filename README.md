@@ -36,8 +36,8 @@ This tool is strictly for **educational purposes** and **authorized security tes
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/instagram-security-tester.git
-cd instagram-security-tester
+git clone https://github.com/hzcv/Brute-force-insta_2k25.git
+cd Brute-force-insta_2k25
 
 # Create virtual environment
 python -m venv venv
